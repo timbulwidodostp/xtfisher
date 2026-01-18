@@ -1,6 +1,8 @@
 # xtfisher
 Fisher type unit root test for panel data Use xtfisher With STATA 19
 
+https://www.youtube.com/watch?v=an82K_v4CDk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
